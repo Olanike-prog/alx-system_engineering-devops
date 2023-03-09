@@ -11,4 +11,5 @@ TASK 09: Write a script that sets the mode of the file hello to this:-rwxr-x-wx 
 TASK 10: Write a script that sets the mode of the file hello the same as olleh’s mode. Bothfiles must be in the working directory.
 TASK 11: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 TASK 12: Create a script that creates a directory called mydir with permissions 751 in theworking directory.
-TASK 12: Write a script that changes the group owner to school for the file hello.
+TASK 13: Write a script that changes the group owner to school for the file hello.
+TASK 14: Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.

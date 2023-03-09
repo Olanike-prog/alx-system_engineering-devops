@@ -10,3 +10,4 @@ TASK 08: Write a script that sets the permission to the file hello as follows: O
 TASK 09: Write a script that sets the mode of the file hello to this:-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
 TASK 10: Write a script that sets the mode of the file hello the same as olleh’s mode. Bothfiles must be in the working directory.
 TASK 11: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+TASK 12: Create a script that creates a directory called mydir with permissions 751 in theworking directory.
